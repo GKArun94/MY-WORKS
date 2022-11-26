@@ -1,2 +1,2 @@
 print("my first line");
-print("my second line");
+print("my second line to demonstrate git check out");
